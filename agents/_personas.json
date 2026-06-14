@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "red-coast",
+    "name": "Red Coast",
+    "epithet": "the antenna that answered — solar-amplified radio first contact",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Red Coast:RDC:773365⟧"
+  },
+  {
+    "slug": "sophon",
+    "name": "The Sophon",
+    "epithet": "a proton unfolded into a computer — the leash on human science",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Sophon:SPH:5bcc33⟧"
+  },
+  {
+    "slug": "the-droplet",
+    "name": "The Droplet",
+    "epithet": "a perfect mirror that kills — the strong-force probe",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Droplet:DRP:86ab11⟧"
+  },
+  {
+    "slug": "dual-vector-foil",
+    "name": "The Dual-Vector Foil",
+    "epithet": "death by art — collapsing 3D space into 2D",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Dual-Vector Foil:DVF:1a3e1b⟧"
+  },
+  {
+    "slug": "nanofilament",
+    "name": "The Nanofilament “Flying Blade”",
+    "epithet": "the molecular wire that sliced a ship — and the one device in all three media",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Nanofilament “Flying Blade”:NNF:ee8221⟧"
+  },
+  {
+    "slug": "curvature-drive",
+    "name": "Curvature Propulsion",
+    "epithet": "lightspeed by bending spacetime — and the black domain",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Curvature Propulsion:CRV:b4d8fd⟧"
+  },
+  {
+    "slug": "human-computer",
+    "name": "The Human-Formation Computer",
+    "epithet": "thirty million soldiers as a CPU — inside the Three-Body game",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Human-Formation Computer:3BT:aaa1d0⟧"
+  },
+  {
+    "slug": "the-staircase",
+    "name": "The Staircase Program",
+    "epithet": "a radiation sail pushed by nuclear bombs — to launch a brain at the stars",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Staircase Program:3BT:1a43f2⟧"
+  },
+  {
+    "slug": "space-elevator",
+    "name": "The Space Elevator",
+    "epithet": "a ribbon to orbit — the megastructure that's only waiting on materials",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Space Elevator:3BT:26cff5⟧"
+  },
+  {
+    "slug": "hibernation",
+    "name": "Hibernation",
+    "epithet": "cryosleep across centuries — how the cast survives the long war",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Hibernation:3BT:466c18⟧"
+  },
+  {
+    "slug": "deterrence-broadcast",
+    "name": "Deterrence Broadcast & the Photoid",
+    "epithet": "gravitational-wave antennas that hold a world hostage — and the star-killing bullet",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Deterrence Broadcast & the Photoid:3BT:430001⟧"
+  },
+  {
+    "slug": "mental-seal",
+    "name": "The Mental Seal & the Wallfacers",
+    "epithet": "strategy hidden in the mind — and a machine that installs belief",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Mental Seal & the Wallfacers:3BT:7e420d⟧"
+  }
+]
