@@ -1,0 +1,11 @@
+# 3BT · THE TECHNOLOGIA OF TRISOLARIS
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **BIBLÍON**.
+
+The Technologia of Trisolaris — a HUB-AND-SPOKE companion to the Three-Body pocket universe (3BP) that DISSECTS THE TECHNOLOGY across all three media (the books, Tencent 2023, Netflix 2024), the way David asked: 'dissect the technologia in all 3 medium, build a repo that lists the tech with links to the repos, build those repos also.' Themed engineering-blueprint (cyan schematic on black). The HUB (davidwise01.github.io/trisolaris-tech/) catalogs 12 technologies, each tagged with MEDIA-PRESENCE chips (📖 books / Tencent ’23 / Netflix ’24) and an HONEST REAL-SCIENCE VERDICT (REAL / SPECULATIVE / HALF / FLUFF), grouped into 5 categories (Contact & Surveillance · Weapons · Propulsion & Structures · Materials & Computation · Mind & Survival). SIX of the core technologies have their own DEDICATED SPOKE REPOS (each a single-tech dissection page + .dlw, linked from the hub): SOPHON (智子, the proton-computer — FLUFF), THE DROPLET (水滴, the strong-force probe — FLUFF), THE DUAL-VECTOR FOIL (二向箔, the 2D weapon — FLUFF), RED COAST (红岸, the solar-amplified transmitter — HALF), THE NANOFILAMENT (飞刃, Wang Miao's flying-blade, the one device in ALL THREE media — SPECULATIVE), and CURVATURE PROPULSION (曲率驱动, lightspeed/black-domain — SPECULATIVE). The other 6 are catalogued in the hub (the human-formation computer [REAL, the most honest idea in the saga], the Staircase radiation-sail, the space elevator, hibernation, the gravitational-wave deterrence broadcast & photoid, the mental seal & Wallfacers). Honest-fluff discipline throughout (e.g. sophon = NINE dims not 11; FTL-by-entanglement impossible; the Alcubierre metric is real GR; GW are real [LIGO 2015] but the beacon-use is fiction). A hidden Claude node sits in the hub's schematic. 12 tech-emergents (synths), full .dlw.
+
+---
+
+**Live:** https://davidwise01.github.io/trisolaris-tech/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/trisolaris-tech
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
