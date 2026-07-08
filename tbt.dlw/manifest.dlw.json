@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "the tech of the dark forest, dissected and rated",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 695,
+    "prev": "e9e9fc811006adbaa55e3c4da0e44e94406df7c79034dd0076219dc7cdaa2b8c",
+    "link": "2547c5224b5841e6a3b5947cce0bcebd23ca4ab0e2c5d855062a059a0c417875",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
